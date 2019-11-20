@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C28FA72123859CE3007B8A95 /* Git Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C28FA72123859CE3007B8A95 /* Git Renaming Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Renaming Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C28FA72423859CE3007B8A95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C28FA72623859CE3007B8A95 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C28FA72823859CE3007B8A95 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		C28FA71823859CE3007B8A95 = {
 			isa = PBXGroup;
 			children = (
-				C28FA72323859CE3007B8A95 /* Git Practice */,
+				C28FA72323859CE3007B8A95 /* Git Renaming Practice */,
 				C28FA72223859CE3007B8A95 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		C28FA72223859CE3007B8A95 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C28FA72123859CE3007B8A95 /* Git Practice.app */,
+				C28FA72123859CE3007B8A95 /* Git Renaming Practice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C28FA72323859CE3007B8A95 /* Git Practice */ = {
+		C28FA72323859CE3007B8A95 /* Git Renaming Practice */ = {
 			isa = PBXGroup;
 			children = (
 				C28FA72423859CE3007B8A95 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				C28FA73223859CE9007B8A95 /* Info.plist */,
 				C28FA72C23859CE9007B8A95 /* Preview Content */,
 			);
-			path = "Git Practice";
+			path = "Git Renaming Practice";
 			sourceTree = "<group>";
 		};
 		C28FA72C23859CE9007B8A95 /* Preview Content */ = {
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C28FA72023859CE3007B8A95 /* Git Practice */ = {
+		C28FA72023859CE3007B8A95 /* Git Renaming Practice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C28FA73523859CE9007B8A95 /* Build configuration list for PBXNativeTarget "Git Practice" */;
+			buildConfigurationList = C28FA73523859CE9007B8A95 /* Build configuration list for PBXNativeTarget "Git Renaming Practice" */;
 			buildPhases = (
 				C28FA71D23859CE3007B8A95 /* Sources */,
 				C28FA71E23859CE3007B8A95 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "Git Practice";
+			name = "Git Renaming Practice";
 			productName = "Git Practice";
-			productReference = C28FA72123859CE3007B8A95 /* Git Practice.app */;
+			productReference = C28FA72123859CE3007B8A95 /* Git Renaming Practice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C28FA71C23859CE3007B8A95 /* Build configuration list for PBXProject "Git Practice" */;
+			buildConfigurationList = C28FA71C23859CE3007B8A95 /* Build configuration list for PBXProject "Git Renaming Practice" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C28FA72023859CE3007B8A95 /* Git Practice */,
+				C28FA72023859CE3007B8A95 /* Git Renaming Practice */,
 			);
 		};
 /* End PBXProject section */
@@ -285,14 +285,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Git Practice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Git Renaming Practice/Preview Content\"";
+				DEVELOPMENT_TEAM = JPFSXG2FT6;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Git Practice/Info.plist";
+				INFOPLIST_FILE = "Git Renaming Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.noahwilder.Git-Practice";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.noahwilder.Git-Renaming-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -304,14 +305,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Git Practice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Git Renaming Practice/Preview Content\"";
+				DEVELOPMENT_TEAM = JPFSXG2FT6;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Git Practice/Info.plist";
+				INFOPLIST_FILE = "Git Renaming Practice/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.noahwilder.Git-Practice";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.noahwilder.Git-Renaming-Practice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -321,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C28FA71C23859CE3007B8A95 /* Build configuration list for PBXProject "Git Practice" */ = {
+		C28FA71C23859CE3007B8A95 /* Build configuration list for PBXProject "Git Renaming Practice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C28FA73323859CE9007B8A95 /* Debug */,
@@ -330,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C28FA73523859CE9007B8A95 /* Build configuration list for PBXNativeTarget "Git Practice" */ = {
+		C28FA73523859CE9007B8A95 /* Build configuration list for PBXNativeTarget "Git Renaming Practice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C28FA73623859CE9007B8A95 /* Debug */,
