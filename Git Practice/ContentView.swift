@@ -15,7 +15,7 @@ struct ContentView: View {
                 .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity)
                 .edgesIgnoringSafeArea(.all)
             
-            Text("Hello, World!")
+            Text("This project is going to be renamed")
                 .foregroundColor(.white)
 
         }
